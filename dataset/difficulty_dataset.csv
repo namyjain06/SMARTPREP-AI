@@ -1,0 +1,151 @@
+question,subject,difficulty,difficulty_label,word_count,char_count
+What is dynamic programming? Explain with Fibonacci.,Computer Science,Medium,1,7,52
+Find the limit of (x^2-1)/(x-1) as x→1.,Mathematics,Medium,1,7,39
+Derive the Nernst equation and explain its applications.,Chemistry,Hard,2,8,56
+Explain the OSI model with all 7 layers.,Computer Science,Medium,1,8,40
+Explain BFS and DFS graph traversal algorithms.,Computer Science,Medium,1,7,47
+Define velocity.,Physics,Easy,0,2,16
+What is an array?,Computer Science,Easy,0,4,17
+Describe the CRISPR-Cas9 gene editing mechanism.,Biology,Hard,2,6,48
+Define RAM and ROM.,Computer Science,Easy,0,4,19
+Derive the time and space complexity of merge sort using recurrence.,Computer Science,Hard,2,11,68
+Explain molecular orbital theory for benzene.,Chemistry,Hard,2,6,45
+Calculate the determinant of a 2x2 matrix.,Mathematics,Medium,1,7,42
+What is potential energy?,Physics,Easy,0,4,25
+Evaluate: 3^2,Mathematics,Easy,0,2,13
+"Calculate the standard deviation of [2,4,4,4,5,5,7,9].",Mathematics,Medium,1,6,54
+What is the Higgs mechanism? Explain spontaneous symmetry breaking.,Physics,Hard,2,9,67
+Describe the mechanism of SN1 and SN2 reactions.,Chemistry,Medium,1,8,48
+What is a compiler?,Computer Science,Easy,0,4,19
+Explain the Heisenberg uncertainty principle mathematically.,Physics,Hard,2,6,60
+Explain Mendel's laws of inheritance.,Biology,Medium,1,5,37
+Prove that every finite integral domain is a field.,Mathematics,Hard,2,9,51
+Name the organelles in a cell.,Biology,Easy,0,6,30
+Derive the formula for Fourier series coefficients.,Mathematics,Hard,2,7,51
+What is the function of the heart?,Biology,Easy,0,7,34
+Describe the stages of mitosis in detail.,Biology,Medium,1,7,41
+Describe the molecular mechanism of apoptosis.,Biology,Hard,2,6,46
+Explain Hess's Law of heat summation.,Chemistry,Medium,1,6,37
+Describe the mechanism of signal transduction pathways.,Biology,Hard,2,7,55
+What is simple harmonic motion? Write its differential equation.,Physics,Medium,1,9,64
+What is Newton's First Law?,Physics,Easy,0,5,27
+Find eigenvalues of a 3x3 matrix.,Mathematics,Hard,2,6,33
+Find the inverse of a 2x2 matrix.,Mathematics,Medium,1,7,33
+Define a function in programming.,Computer Science,Easy,0,5,33
+Find the derivative of f(x) = 3x^2 + 2x.,Mathematics,Medium,1,9,40
+What is the Doppler effect? Give an example.,Physics,Medium,1,8,44
+Explain the role of non-coding RNA in gene regulation.,Biology,Hard,2,9,54
+Explain quantum tunneling and its applications.,Physics,Hard,2,6,47
+Prove that sqrt(2) is irrational using contradiction.,Mathematics,Hard,2,7,53
+What is 15% of 200?,Mathematics,Easy,0,5,19
+What is the SI unit of force?,Physics,Easy,0,7,29
+Explain epigenetic regulation of gene expression.,Biology,Hard,2,6,49
+Explain Byzantine fault tolerance in consensus algorithms.,Computer Science,Hard,2,7,58
+Derive the complexity of matrix chain multiplication using DP.,Computer Science,Hard,2,9,62
+"Solve the system: 2x + y = 5, x - y = 1.",Mathematics,Medium,1,13,40
+Solve the quadratic equation x^2 - 5x + 6 = 0.,Mathematics,Medium,1,11,46
+Explain and implement Dijkstra's algorithm with complexity analysis.,Computer Science,Hard,2,8,68
+What is the lac operon model?,Biology,Medium,1,6,29
+What is the significance of the citric acid cycle?,Biology,Medium,1,9,50
+What is hashing? Explain collision resolution techniques.,Computer Science,Medium,1,7,57
+What are isomers? Explain structural isomerism.,Chemistry,Medium,1,6,47
+What is oxidation?,Chemistry,Easy,0,3,18
+Explain the concept of chemical equilibrium.,Chemistry,Medium,1,6,44
+What is a boolean data type?,Computer Science,Easy,0,6,28
+What is 2 + 2?,Mathematics,Easy,0,5,14
+What is DNA?,Biology,Easy,0,3,12
+What is an if-else statement?,Computer Science,Easy,0,5,29
+"Apply Lagrange multipliers to optimize f(x,y) = x^2+y^2 subject to x+y=1.",Mathematics,Hard,2,11,73
+Derive the equation for projectile motion.,Physics,Medium,1,6,42
+Explain Snell's Law and derive it.,Physics,Medium,1,6,34
+What is an algorithm?,Computer Science,Easy,0,4,21
+Name the four blood groups.,Biology,Easy,0,5,27
+Prove Cauchy-Schwarz inequality in inner product spaces.,Mathematics,Hard,2,7,56
+Solve the partial differential equation uxx + uyy = 0.,Mathematics,Hard,2,10,54
+Evaluate the contour integral of 1/(z^2+1) over |z|=2.,Mathematics,Hard,2,8,54
+What is the atomic number of Carbon?,Chemistry,Easy,0,7,36
+Define frequency of a wave.,Physics,Easy,0,5,27
+Define molar mass.,Chemistry,Easy,0,3,18
+What is the Crystal Field Theory? Explain for octahedral complexes.,Chemistry,Hard,2,10,67
+Derive expressions for electric field due to a point charge.,Physics,Medium,1,10,60
+Name the three states of matter.,Chemistry,Easy,0,6,32
+Describe the mechanism of Diels-Alder reaction.,Chemistry,Hard,2,6,47
+State Ohm's Law.,Physics,Easy,0,3,16
+Describe the process of meiosis.,Biology,Medium,1,5,32
+What is the ideal gas law? Derive it.,Chemistry,Medium,1,8,37
+What is a loop? Name two types.,Computer Science,Easy,0,7,31
+Design a distributed key-value store with consistency guarantees.,Computer Science,Hard,2,8,65
+Explain the molecular basis of antibiotic resistance.,Biology,Hard,2,7,53
+Explain special theory of relativity and time dilation.,Physics,Hard,2,8,55
+Simplify: 3x + 2x,Mathematics,Easy,0,4,17
+State the law of conservation of mass.,Chemistry,Easy,0,7,38
+Derive the rate equation for a complex reaction mechanism.,Chemistry,Hard,2,9,58
+What is resonance in an LC circuit?,Physics,Medium,1,7,35
+Define kinetic energy.,Physics,Easy,0,3,22
+Prove the P vs NP problem statement and its implications.,Computer Science,Hard,2,10,57
+What is a deadlock? Explain necessary conditions.,Computer Science,Medium,1,7,49
+What is the speed of light in vacuum?,Physics,Easy,0,8,37
+Explain the Born-Haber cycle for ionic compounds.,Chemistry,Hard,2,7,49
+Convert 0.5 to a fraction.,Mathematics,Easy,0,5,26
+Derive the expression for kinetic energy from work-energy theorem.,Physics,Medium,1,9,66
+Explain the time complexity of bubble sort.,Computer Science,Medium,1,7,43
+What is a chemical equation?,Chemistry,Easy,0,5,28
+What is a cell?,Biology,Easy,0,4,15
+Explain the CAP theorem in distributed systems.,Computer Science,Hard,2,7,47
+Explain the mechanism of enzyme action.,Biology,Medium,1,6,39
+Describe the structure and function of DNA.,Biology,Medium,1,7,43
+Explain RAFT consensus algorithm for distributed systems.,Computer Science,Hard,2,7,57
+What is the perimeter of a rectangle 3x5?,Mathematics,Easy,0,8,41
+Prove that the sum of angles in a triangle is 180 degrees.,Mathematics,Medium,1,12,58
+Explain the thermodynamic basis of spontaneity using Gibbs free energy.,Chemistry,Hard,2,10,71
+Define respiration.,Biology,Easy,0,2,19
+Find the area of a square with side 4.,Mathematics,Easy,0,9,38
+What is the binomial expansion of (a+b)^3?,Mathematics,Medium,1,7,42
+What is the unit of electric current?,Physics,Easy,0,7,37
+Explain the concept of recursion with an example.,Computer Science,Medium,1,8,49
+Explain the immune response to pathogens.,Biology,Medium,1,6,41
+What is the square root of 144?,Mathematics,Easy,0,7,31
+Explain the quantum mechanical model of the hydrogen atom.,Chemistry,Hard,2,9,58
+Explain hybridization in carbon compounds.,Chemistry,Medium,1,5,42
+What is the value of pi to 2 decimal places?,Mathematics,Easy,0,10,44
+What does CPU stand for?,Computer Science,Easy,0,5,24
+Derive the expression for entropy in statistical mechanics.,Physics,Hard,2,8,59
+What is an ecosystem?,Biology,Easy,0,4,21
+Derive Maxwell's equations from first principles.,Physics,Hard,2,6,49
+Describe transition state theory and Arrhenius equation derivation.,Chemistry,Hard,2,8,67
+Explain the photoelectric effect.,Physics,Medium,1,4,33
+Explain the concept of natural selection.,Biology,Medium,1,6,41
+Define a variable in programming.,Computer Science,Easy,0,5,33
+Describe the mechanism of viral replication in host cells.,Biology,Hard,2,9,58
+"What is normalization in databases? Explain 1NF, 2NF, 3NF.",Computer Science,Medium,1,9,58
+Describe the Standard Model of particle physics.,Physics,Hard,2,7,48
+Define pH scale.,Chemistry,Easy,0,3,16
+Explain the working of a transformer.,Physics,Medium,1,6,37
+Explain quantum entanglement and Bell's theorem.,Physics,Hard,2,6,48
+What is an atom?,Chemistry,Easy,0,4,16
+Explain the concept of magnetic flux and Faraday's law.,Physics,Medium,1,9,55
+Describe the implementation of a garbage collector.,Computer Science,Hard,2,7,51
+Derive the Henderson-Hasselbalch equation.,Chemistry,Medium,1,4,42
+What is mitosis?,Biology,Easy,0,3,16
+Solve the differential equation dy/dx = y*sin(x).,Mathematics,Hard,2,7,49
+Derive the Navier-Stokes equations.,Physics,Hard,2,4,35
+Explain the evolutionary theory of endosymbiosis.,Biology,Hard,2,6,49
+Define homeostasis.,Biology,Easy,0,2,19
+State Archimedes' principle.,Physics,Easy,0,3,28
+Explain the molecular basis of cancer development.,Biology,Hard,2,7,50
+Solve: x + 3 = 7,Mathematics,Easy,0,6,16
+Derive the Schrodinger equation and explain its significance.,Physics,Hard,2,8,61
+Explain the process of protein synthesis.,Biology,Medium,1,6,41
+What is electrochemistry? Explain galvanic cells.,Chemistry,Medium,1,6,49
+Define electronegativity.,Chemistry,Easy,0,2,25
+Explain the synthesis of complex organic compounds using retrosynthesis.,Chemistry,Hard,2,9,72
+Explain the internals of a B+ tree and its use in databases.,Computer Science,Hard,2,12,60
+Explain the difference between stack and queue.,Computer Science,Medium,1,7,47
+Define photosynthesis.,Biology,Easy,0,2,22
+Describe the structure and function of the ribosome in detail.,Biology,Hard,2,10,62
+Prove the Fundamental Theorem of Calculus.,Mathematics,Hard,2,6,42
+What is a binary search tree? Explain insertion.,Computer Science,Medium,1,8,48
+What is titration? Explain acid-base titration.,Chemistry,Medium,1,6,47
+Integrate f(x) = 2x + 1 with respect to x.,Mathematics,Medium,1,10,42
+What is a covalent bond?,Chemistry,Easy,0,5,24
+Explain Le Chatelier's principle with examples.,Chemistry,Medium,1,6,47
